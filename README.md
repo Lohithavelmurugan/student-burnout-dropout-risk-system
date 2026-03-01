@@ -1,4 +1,4 @@
-# student-burnout-dropout-risk-system
+# Student-Burnout-Dropout-Risk-System
 # Overview
 
 This project focuses on early detection of student burnout, academic disengagement, and dropout probability using behavioural analytics. Modern LMS platforms generate behavioural signals such as login patterns, assignment submission delays, irregular study routines, attendance trends, and student sentiment. These indicators can reveal early signs of academic risk long before grades begin to decline.
